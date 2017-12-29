@@ -1,4 +1,8 @@
-Lab 1 
+# Multiprogramming in JNachos
+
+#### Operating Systems
+#### CIS 657
+#### Lab 1 
 
 Program Arguments:
 Unzip the file JNachosLabLab2Solution into your workspace and use the option new and project from existing workspace to run in IntelliJ
