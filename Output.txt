@@ -1,0 +1,24 @@
+objc[7662]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/java (0x10279d4c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x1027f44e0). One of the two will be used. Which one is undefined.
+Copyright (c) 1992-1993 The Regents of the University of California.
+Entering JNachos v1.0
+/Users/suruchisingh/Desktop/POS/JNachosLab2Solution/test/sort,/Users/suruchisingh/Desktop/POS/JNachosLab2Solution/test/matmult
+here
+here
+SysCall:1
+   Process ID: 2
+Current Process /Users/suruchisingh/Desktop/POS/JNachosLab2Solution/test/matmult exiting with code 7220
+SysCall:1
+   Process ID: 1
+Current Process /Users/suruchisingh/Desktop/POS/JNachosLab2Solution/test/sort exiting with code 1023
+No threads ready or runnable, and no pending interrupts.
+
+Assuming the program completed.
+
+Machine halting!
+
+
+Ticks: total 193121616, idle 80, system 191914460, user 1207076
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
